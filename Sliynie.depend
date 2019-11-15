@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1479751477 source:c:\users\user\documents\программирование\вторая попытка\sliynie_1\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<fstream>
+	<vector>
+	<algorithm>
+
